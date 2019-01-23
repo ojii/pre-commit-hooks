@@ -1,0 +1,13 @@
+[
+	{
+		"id": "swiftformat",
+		"name": "swiftformat",
+		"description": "Runs swiftformat.",
+		"entry": "swiftformat",
+		"language": "system",
+		"exclude": "^Pods/.*$",
+		"types": [
+			"swift"
+		]
+	}
+]
